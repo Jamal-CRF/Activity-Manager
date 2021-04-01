@@ -1,1 +1,30 @@
-@import 'bootstrap'
+
+@import 'bootstrap';
+
+
+html, body {
+  height: 100%;
+}
+
+.bg {
+  background-color: #444576;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+.bg-img {
+
+  background-image: url("../../assets/images/logo-edit.png");
+  background-position: center;
+  background-size: cover;
+  height: 530px;
+  margin-top: 40px;
+}
+
+.table {
+    margin-left: 90px;
+    
+  
+}
