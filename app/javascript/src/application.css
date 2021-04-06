@@ -7,7 +7,14 @@ html, body {
 }
 
 .bg {
-  background-color: #444576;
+  background-color: #ffdcfb;
+  background-image: url("../../assets/images/logo.png");
+  background-position: center;
+  background-size: cover;
+}
+
+main {
+  opacity: 0.90;
 }
 
 .center {
@@ -16,15 +23,16 @@ html, body {
 }
 .bg-img {
 
-  background-image: url("../../assets/images/logo-edit.png");
-  background-position: center;
-  background-size: cover;
+ 
   height: 530px;
   margin-top: 40px;
 }
 
-.table {
-    margin-left: 90px;
-    
-  
+.caju {
+  border-top: 5px solid red;
 }
+
+.banana{
+  border-top: 5px solid green;
+}
+
